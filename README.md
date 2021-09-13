@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan a.k.a Kakarot
-- 👀 I’m interested in Javascript, Node Js, Html and CSS.
-- 🌱 I’m currently learning Djs🤯
+- 👀 I’m interested in Javascript, Node Js, Discord JS, Html and CSS.
+- 🌱 I’m currently learning Python🤯
 - 📫 Dm Kakarot#0690 on discord ;-;
 
 <!---
